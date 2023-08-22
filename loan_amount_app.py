@@ -15,7 +15,7 @@ from streamlit_lottie import st_lottie_spinner
 
 
 full_data = pd.read_csv(
-    "https://raw.githubusercontent.com/semasuka/Loan-amount-prediction-regression/main/datasets/train.csv"
+    "https://raw.githubusercontent.com/Officialnedah/loanprediction/main/train.csv"
 )
 
 
